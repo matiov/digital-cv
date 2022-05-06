@@ -1,4 +1,3 @@
- # Matteo Iovino
 
 _Ph.D. Candidate at the Royal Institute of Technology (KTH - Kungliga Tekniska Högskolan)_  
 _Software Developer at ABB Corporate Research Center_
@@ -18,7 +17,8 @@ Division of Robotics and Discrete Automation.
 ## 🎓 Education
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
-School of Electrical Engineering and Computer Science. Division of Robotics, Perception and Learning.  
+School of Electrical Engineering and Computer Science.  
+Division of Robotics, Perception and Learning.  
 📍 Stockholm, Sweden.  
 
 * Learning algorithms for task level control of mobile manipulators
