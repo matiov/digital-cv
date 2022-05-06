@@ -1,4 +1,4 @@
- - Matteo Iovino
+ # Matteo Iovino
 
 _Ph.D. Candidate at the Royal Institute of Technology (KTH - Kungliga Tekniska Högskolan), Stockholm, Sweden_  
 _Software Developer at ABB Corporate Research Center, Västerås, Sweden_
