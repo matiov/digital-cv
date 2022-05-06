@@ -38,7 +38,7 @@ Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (To
 Major in **Robotics**.  
 📍 Nantes, France.  
 
-* **Master Thesis:** [Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results]
+* **Master Thesis:** Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results
 * Didactic tracks in _Robotics_ and _Science and Music_
 * **_Technology used:_** ROS, C++, Matlab, MSC Adams
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
