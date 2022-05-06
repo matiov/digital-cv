@@ -5,7 +5,7 @@ _Software Developer at ABB Corporate Research Center, Västerås, Sweden_
 
 [Email](matteo.iovino@se.abb.com) / [LinkedIn](https://www.linkedin.com/in/matteo~iovino/) / [Scholar](https://scholar.google.com/citations?user=dH2oc1QAAAAJ&hl=it) / [YouTube](https://www.youtube.com/channel/UCHL3PZ_AYCyejt8fxBMQqdg)
 
-## :office: Experience
+## 🏢 Experience
 
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_
 Division of Robotics and Discrete Automation.
@@ -15,7 +15,7 @@ Division of Robotics and Discrete Automation.
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
 
 
-## :mortar_board: Education
+## 🎓 Education
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_
 School of Electrical Engineering and Computer Science. Division of Robotics, Perception and Learning.
@@ -26,13 +26,13 @@ School of Electrical Engineering and Computer Science. Division of Robotics, Per
 
 ## 🗣️ Languages
 
-- :it: : Native
-- :uk: : C1
-- :fr: : B2
-- :es: : B2
+- 🇮🇹 : Native
+- 🇬🇧 : C1
+- 🇫🇷 : B2
+- 🇪🇸 : B2
 - 🇸🇪 : B1
 
-## Publications
+## 📖 Publications
 
 1. [A survey of behavior trees in robotics and AI](https://www.sciencedirect.com/science/article/pii/S0921889022000513)
 2. [Learning behavior trees with genetic programming in unpredictable environments](https://ieeexplore.ieee.org/abstract/document/9562088)
@@ -41,7 +41,7 @@ School of Electrical Engineering and Computer Science. Division of Robotics, Per
 5. [Interactive Disambiguation for Behavior Tree Execution](https://arxiv.org/abs/2203.02994)
 
 
-## Projects
+## 💻 Projects
 
 1. [Behavior Tree challenge: items picking and delivery](https://github.com/jstyrud/WASP-CBSS-BT)
 2. [Vision-based Manipulation and Mobility](https://www.youtube.com/watch?v=ldcq6FBHAwY)
