@@ -16,13 +16,32 @@ Division of Robotics and Discrete Automation.
 
 ## 🎓 Education
 
-**Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
+**Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) _(Feb 2019 - Present)_  
 School of Electrical Engineering and Computer Science.  
 Division of Robotics, Perception and Learning.  
 📍 Stockholm, Sweden.  
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
+
+**M.Sc. in Control System Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/) _(Oct 2015 - Oct 2018)_  
+Department of Information Engineering.  
+Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (Top Industrial Managers for Europe).  
+📍 Padova, Italy.  
+
+* **Master Thesis:** [Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results](https://thesis.unipd.it/handle/20.500.12608/26783)
+* **_Technology used:_** Matlab
+* **_Theoretical tools:_** Lyapunov Control, PID Control, State Space Control, LQ Control, Kalman Filter, Particle Filter
+
+**M.Sc. in General Engineering** @ [ECN - École Centrale de Nantes](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/robotics) _(Sep 2016 - Oct 2018)_  
+Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (Top Industrial Managers for Europe).  
+Major in **Robotics**.  
+📍 Nantes, France.  
+
+* **Master Thesis:** [Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results]
+* Didactic tracks in _Robotics_ and _Science and Music_
+* **_Technology used:_** ROS, C++, Matlab, MSC Adams
+* **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
 
 ## 🗣️ Languages
 
