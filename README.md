@@ -1,15 +1,15 @@
  # Matteo Iovino
 
-_Ph.D. Candidate at the Royal Institute of Technology (KTH - Kungliga Tekniska Högskolan), Stockholm, Sweden_  
-_Software Developer at ABB Corporate Research Center, Västerås, Sweden_
+_Ph.D. Candidate at the Royal Institute of Technology (KTH - Kungliga Tekniska Högskolan)_  
+_Software Developer at ABB Corporate Research Center_
 
 [Email](matteo.iovino@se.abb.com) / [LinkedIn](https://www.linkedin.com/in/matteo~iovino/) / [Scholar](https://scholar.google.com/citations?user=dH2oc1QAAAAJ&hl=it) / [YouTube](https://www.youtube.com/channel/UCHL3PZ_AYCyejt8fxBMQqdg)
 
 ## 🏢 Experience
 
-**Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_
-Division of Robotics and Discrete Automation.
-📍 Västerås, Sweden.
+**Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
+Division of Robotics and Discrete Automation.  
+📍 Västerås, Sweden.  
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
@@ -17,9 +17,9 @@ Division of Robotics and Discrete Automation.
 
 ## 🎓 Education
 
-**Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_
-School of Electrical Engineering and Computer Science. Division of Robotics, Perception and Learning.
-📍 Stockholm, Sweden.
+**Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
+School of Electrical Engineering and Computer Science. Division of Robotics, Perception and Learning.  
+📍 Stockholm, Sweden.  
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
