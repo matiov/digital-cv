@@ -53,6 +53,7 @@ Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (To
 * **Master Thesis:** [Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results](https://thesis.unipd.it/handle/20.500.12608/26783)
 * **_Technology used:_** Matlab
 * **_Theoretical tools:_** Lyapunov Control, PID Control, State Space Control, LQ Control, Kalman Filter, Particle Filter
+[_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_UNIPD.pdf)
 
 **M.Sc. in General Engineering** @ [ECN - École Centrale de Nantes](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/robotics) _(Sep 2016 - Oct 2018)_  
 Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (Top Industrial Managers for Europe).  
@@ -63,6 +64,7 @@ Major in **Robotics**.
 * Didactic tracks in _Robotics_ and _Science and Music_
 * **_Technology used:_** ROS, C++, Matlab, MSC Adams
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
+[_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_ECN.pdf)
 
 **B.Sc. in Information Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/information-engineering-english-track/) _(Oct 2012 - Jul 2015)_  
 Department of Information Engineering.  
@@ -101,8 +103,8 @@ Department of Information Engineering.
 1. [Behavior Tree challenge: items picking and delivery](https://github.com/jstyrud/WASP-CBSS-BT)
 2. [Vision-based Manipulation and Mobility](https://www.youtube.com/watch?v=ldcq6FBHAwY)
 3. [Dual Arm Manipulation: cooperative object carrying](https://youtu.be/cyiVQpB7XYc)
-4. Influence de la musique sur les micro-organismes
-5. Rénovation d'une maquette d'hélicoptère 3 DOF
+4. [Influence de la musique sur les micro-organismes](https://github.com/matiov/digital-cv/blob/gh-pages/reports/musique.pdf)
+5. [Rénovation d'une maquette d'hélicoptère 3 DOF](https://github.com/matiov/digital-cv/blob/gh-pages/reports/robotique.pdf)
 
 ## 🧐 Interests
 
