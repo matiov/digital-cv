@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 title: Matteo Iovino
 description: Curriculum Vitae
-baseurl: https://github.com/matiov/digital-cv/blob/gh-pages
+baseurl: /digital-cv
