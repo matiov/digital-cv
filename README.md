@@ -6,8 +6,7 @@ _Software Developer at ABB Corporate Research Center_
 
 ## 🏢 Experience
 
-
-<img align="left" width="140" height="55" src="https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png">
+<img itemprop="image" align="left" width="140" height="55" src="https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png">
 
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
 Division of Robotics and Discrete Automation.  
@@ -17,7 +16,7 @@ Division of Robotics and Discrete Automation.
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
 <br/><br/>  
 
-<img align="left" width="140" height="55" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png'>
+<img itemprop="image" align="left" width="140" height="55" src="{{ site.baseurl }}/imgs/ABB_logo.png">
 
 **Engineer Internship** @ ABB Corporate Research Center _(Apr 2018 - Sep 2018)_  
 Division of Robotics and Discrete Automation | Mechatronics Team  
