@@ -2,7 +2,7 @@
 _Ph.D. Candidate at the Royal Institute of Technology (KTH - Kungliga Tekniska Högskolan)_  
 _Software Developer at ABB Corporate Research Center_
 
-[Email](matteo.iovino@se.abb.com) / [LinkedIn](https://www.linkedin.com/in/matteo~iovino/) / [Scholar](https://scholar.google.com/citations?user=dH2oc1QAAAAJ&hl=it) / [YouTube](https://www.youtube.com/channel/UCHL3PZ_AYCyejt8fxBMQqdg)
+[Email](matteo.iovino@se.abb.com) | [LinkedIn](https://www.linkedin.com/in/matteo~iovino/) | [Scholar](https://scholar.google.com/citations?user=dH2oc1QAAAAJ&hl=it) | [YouTube](https://www.youtube.com/channel/UCHL3PZ_AYCyejt8fxBMQqdg) | [GitHub](https://github.com/matiov)
 
 ## 🏢 Experience
 
@@ -103,16 +103,16 @@ Department of Information Engineering.
 
 1. [A survey of behavior trees in robotics and AI](https://www.sciencedirect.com/science/article/pii/S0921889022000513)
 2. [Learning behavior trees with genetic programming in unpredictable environments](https://ieeexplore.ieee.org/abstract/document/9562088)
-    * code repository: https://github.com/matiov/learn-BTs-with-GP
+    * code repository: [https://github.com/matiov/learn-BTs-with-GP](https://github.com/matiov/learn-BTs-with-GP)
     * video: [_link to video_](https://www.youtube.com/watch?v=D_6YE3HhEnA)
 4. [Combining planning and learning of behavior trees for robotic assembly](https://arxiv.org/abs/2103.09036)
-    * code repository: https://github.com/jstyrud/planning-and-learning
+    * code repository: [https://github.com/jstyrud/planning-and-learning](https://github.com/jstyrud/planning-and-learning)
     * video: 
 6. [Combining Context Awareness and Planning to Learn Behavior Trees from Demonstration](https://arxiv.org/abs/2109.07133)
-    * code repository: https://github.com/matiov/learn-BTs-from-demo
+    * code repository: [https://github.com/matiov/learn-BTs-from-demo](https://github.com/matiov/learn-BTs-from-demo)
     * video: [_link to video_](https://www.youtube.com/watch?v=cy6PKRrsMjM&t=34s)
 7. [Interactive Disambiguation for Behavior Tree Execution](https://arxiv.org/abs/2203.02994)
-    * code repository: https://github.com/matiov/disambiguate-BT-execution
+    * code repository: [https://github.com/matiov/disambiguate-BT-execution](https://github.com/matiov/disambiguate-BT-execution)
     * video: [_link to video_](https://www.youtube.com/watch?v=aC1wY35ZNWk)
 
 
