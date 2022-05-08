@@ -6,12 +6,18 @@ _Software Developer at ABB Corporate Research Center_
 
 ## 🏢 Experience
 
+
+<img align="left" width="140" height="55" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png'>
+
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
 Division of Robotics and Discrete Automation.  
 📍 Västerås, Sweden.  
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
+<br/><br/>  
+
+<img align="left" width="140" height="55" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png'>
 
 **Engineer Internship** @ ABB Corporate Research Center _(Apr 2018 - Sep 2018)_  
 Division of Robotics and Discrete Automation | Mechatronics Team  
@@ -23,18 +29,22 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 * Set up of a simulation in MoveIt! for a pick&place task.
 * **_Technology used:_** ROS, C++, C#, RAPID, Gazebo, RViz, MoveIt!
 * **_Theoretical tools:_** SLAM, AMCL (Augmented Monte-Carlo Localization), A* planner, Rapidly-exploring Random Trees
+<br/><br/> 
+
+<img align="left" width="120" height="120" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/SAFRAN_logo.png'>
 
 **Engineer Internship** @ [Safran Nacelles](https://www.safran-group.com/companies/safran-nacelles) _(Mar 2017 - Aug 2017)_  
 Équipe Systémes  
 📍 Le Havre, France.  
-
-
+ <br/><br/>
 * Conception and control of a simulation model of a test bench ring for the actuation systems of the nacelles thrust reversers.
 * Simulation of the stiffness of the components of the test bench.
 * **_Technology used:_** Simcenter Amesim
 * **_Theoretical tools:_** PID Control
 
 ## 🎓 Education
+
+<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/KTH_Logo.png'>
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) _(Feb 2019 - Present)_  
 School of Electrical Engineering and Computer Science.  
@@ -44,6 +54,9 @@ Division of Robotics, Perception and Learning.
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
 * **_Theoretical tools:_** Behavior Trees, Learning from Demonstration, Genetic Programming, Autonomous Planners, Deep Learning for Vision
+<br/><br/> 
+
+<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/Unipd_Logo.png'>
 
 **M.Sc. in Control System Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/) _(Oct 2015 - Oct 2018)_  
 Department of Information Engineering.  
@@ -54,6 +67,9 @@ Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (To
 * **_Technology used:_** Matlab
 * **_Theoretical tools:_** Lyapunov Control, PID Control, State Space Control, LQ Control, Kalman Filter, Particle Filter
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_UNIPD.pdf)
+<br/><br/> 
+
+<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ECN_Logo.svg'>
 
 **M.Sc. in General Engineering** @ [ECN - École Centrale de Nantes](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/robotics) _(Sep 2016 - Oct 2018)_  
 Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (Top Industrial Managers for Europe).  
@@ -65,11 +81,14 @@ Major in **Robotics**.
 * **_Technology used:_** ROS, C++, C, Matlab, MSC Adams, Arduino
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_ECN.pdf)
+<br/><br/> 
+
+<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/Unipd_Logo.png'>
 
 **B.Sc. in Information Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/information-engineering-english-track/) _(Oct 2012 - Jul 2015)_  
 Department of Information Engineering.  
 📍 Padova, Italy.  
-
+<br/><br/>
 * **Bachelor Thesis:** "Power Audio Amplifiers", conception and realisation of power audio amplifiers, type A, B and AB.
 * **_Technology used:_** Matlab, Java, C, Arduino
 
