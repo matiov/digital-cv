@@ -6,6 +6,7 @@ _Software Developer at ABB Corporate Research Center_
 
 ## 🏢 Experience
 
+<br/><br/>  
 <img itemprop="image" align="left" width="140" height="55" src="{{ site.baseurl }}/imgs/ABB_logo.png">
 
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
@@ -43,6 +44,7 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 
 ## 🎓 Education
 
+<br/><br/>  
 <img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/KTH_Logo.png'>
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) _(Feb 2019 - Present)_  
