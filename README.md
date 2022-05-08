@@ -62,7 +62,7 @@ Major in **Robotics**.
 
 * **Master Thesis:** Navigation and Grasping with a Mobile Manipulator: from Simulation to Experimental Results
 * Didactic tracks in _Robotics_ and _Science and Music_
-* **_Technology used:_** ROS, C++, Matlab, MSC Adams
+* **_Technology used:_** ROS, C++, C, Matlab, MSC Adams, Arduino
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_ECN.pdf)
 
