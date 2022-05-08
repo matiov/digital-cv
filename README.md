@@ -131,4 +131,4 @@ Department of Information Engineering.
 
 **Entertainment:** concerts, electric guitar, bass guitar, formula 1  
 
-**Reads:** _A brief hystory of time_; _Brief answers to the big questions_, Stephen Hawking | _The God delusion_; _The selfish gene_; _The greatest show on Earth_, Richard Dawkins | _Thinking, fast and slow_, Daniel Kahneman
+**Reads:** _A brief hystory of time_; _Brief answers to the big questions_, Stephen Hawking - _The God delusion_; _The selfish gene_; _The greatest show on Earth_, Richard Dawkins - _Thinking, fast and slow_, Daniel Kahneman
