@@ -6,7 +6,7 @@ _Software Developer at ABB Corporate Research Center_
 
 ## 🏢 Experience
 
-<img itemprop="image" align="left" width="140" height="55" src="https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ABB_logo.png">
+<img itemprop="image" align="left" width="140" height="55" src="{{ site.baseurl }}/imgs/ABB_logo.png">
 
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
 Division of Robotics and Discrete Automation.  
@@ -30,7 +30,7 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 * **_Theoretical tools:_** SLAM, AMCL (Augmented Monte-Carlo Localization), A* planner, Rapidly-exploring Random Trees
 <br/><br/> 
 
-<img align="left" width="120" height="120" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/SAFRAN_logo.png'>
+<img itemprop="image" align="left" width="120" height="120" src='{{ site.baseurl }}/imgs/SAFRAN_logo.png'>
 
 **Engineer Internship** @ [Safran Nacelles](https://www.safran-group.com/companies/safran-nacelles) _(Mar 2017 - Aug 2017)_  
 Équipe Systémes  
@@ -43,7 +43,7 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 
 ## 🎓 Education
 
-<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/KTH_Logo.png'>
+<img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/KTH_Logo.png'>
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) _(Feb 2019 - Present)_  
 School of Electrical Engineering and Computer Science.  
@@ -55,7 +55,7 @@ Division of Robotics, Perception and Learning.
 * **_Theoretical tools:_** Behavior Trees, Learning from Demonstration, Genetic Programming, Autonomous Planners, Deep Learning for Vision
 <br/><br/> 
 
-<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/Unipd_Logo.png'>
+<img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/Unipd_Logo.png'>
 
 **M.Sc. in Control System Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/) _(Oct 2015 - Oct 2018)_  
 Department of Information Engineering.  
@@ -68,7 +68,7 @@ Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (To
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_UNIPD.pdf)
 <br/><br/> 
 
-<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/ECN_Logo.svg'>
+<img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/ECN_Logo.svg'>
 
 **M.Sc. in General Engineering** @ [ECN - École Centrale de Nantes](https://www.ec-nantes.fr/engineering-programme-diplome-dingenieur/course-specialisations-yrs-23/robotics) _(Sep 2016 - Oct 2018)_  
 Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (Top Industrial Managers for Europe).  
@@ -82,7 +82,7 @@ Major in **Robotics**.
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_ECN.pdf)
 <br/><br/> 
 
-<img align="left" width="100" height="100" src='https://github.com/matiov/digital-cv/blob/gh-pages/imgs/Unipd_Logo.png'>
+<img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/Unipd_Logo.png'>
 
 **B.Sc. in Information Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/information-engineering-english-track/) _(Oct 2012 - Jul 2015)_  
 Department of Information Engineering.  
