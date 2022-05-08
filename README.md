@@ -6,7 +6,6 @@ _Software Developer at ABB Corporate Research Center_
 
 ## 🏢 Experience
 
-<br/><br/>  
 <img itemprop="image" align="left" width="140" height="55" src="{{ site.baseurl }}/imgs/ABB_logo.png">
 
 **Industrial Ph.D.** @ [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/sweden) _(Feb 2019 - Present)_  
@@ -15,7 +14,8 @@ Division of Robotics and Discrete Automation.
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
-<br/><br/>  
+<br/><br/>
+---
 
 <img itemprop="image" align="left" width="140" height="55" src="{{ site.baseurl }}/imgs/ABB_logo.png">
 
@@ -30,6 +30,7 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 * **_Technology used:_** ROS, C++, C#, RAPID, Gazebo, RViz, MoveIt!
 * **_Theoretical tools:_** SLAM, AMCL (Augmented Monte-Carlo Localization), A* planner, Rapidly-exploring Random Trees
 <br/><br/> 
+---
 
 <img itemprop="image" align="left" width="120" height="120" src='{{ site.baseurl }}/imgs/SAFRAN_logo.png'>
 
@@ -44,7 +45,6 @@ Division of Robotics and Discrete Automation | Mechatronics Team
 
 ## 🎓 Education
 
-<br/><br/>  
 <img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/KTH_Logo.png'>
 
 **Ph.D. in Computer Science** @ [KTH - Royal Institute of Technology](https://www.kth.se/is/rpl/division-of-robotics-perception-and-learning-1.779439) _(Feb 2019 - Present)_  
@@ -55,7 +55,8 @@ Division of Robotics, Perception and Learning.
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
 * **_Theoretical tools:_** Behavior Trees, Learning from Demonstration, Genetic Programming, Autonomous Planners, Deep Learning for Vision
-<br/><br/> 
+<br/><br/>
+---
 
 <img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/Unipd_Logo.png'>
 
@@ -68,7 +69,8 @@ Double Degree Project in the [T.I.M.E](https://timeassociation.org/) Network (To
 * **_Technology used:_** Matlab
 * **_Theoretical tools:_** Lyapunov Control, PID Control, State Space Control, LQ Control, Kalman Filter, Particle Filter
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_UNIPD.pdf)
-<br/><br/> 
+<br/><br/>
+---
 
 <img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/ECN_Logo.svg'>
 
@@ -83,6 +85,7 @@ Major in **Robotics**.
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
 [_link to diploma_](https://github.com/matiov/digital-cv/blob/gh-pages/diplomas/Diploma_ECN.pdf)
 <br/><br/> 
+---
 
 <img itemprop="image" align="left" width="100" height="100" src='{{ site.baseurl }}/imgs/Unipd_Logo.png'>
 
