@@ -100,7 +100,7 @@ Department of Information Engineering.
 
 1. [Behavior Tree challenge: items picking and delivery](https://github.com/jstyrud/WASP-CBSS-BT)
 2. [Vision-based Manipulation and Mobility](https://www.youtube.com/watch?v=ldcq6FBHAwY)
-3. Dual Arm Manipulation: cooperative object carrying
+3. [Dual Arm Manipulation: cooperative object carrying](https://youtu.be/cyiVQpB7XYc)
 4. Influence de la musique sur les micro-organismes
 5. Rénovation d'une maquette d'hélicoptère 3 DOF
 
