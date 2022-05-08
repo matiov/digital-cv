@@ -13,6 +13,26 @@ Division of Robotics and Discrete Automation.
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
 
+**Engineer Internship** @ ABB Corporate Research Center _(Apr 2018 - Sep 2018)_  
+Division of Robotics and Discrete Automation | Mechatronics Team  
+📍 Västerås, Sweden.  
+
+* Creation of an Add-In for ABB RobotStudio to simulate a mobile platform and exchange information with ROS.
+* Set up of a simulation environment in ROS-Gazebo for the autonomous mapping and navigation, using a holonomic mobile platform.
+* Use of SLAM (Simultaneous Localization And Mapping) algorithms on a real holonomic mobile robot.
+* Set up of a simulation in MoveIt! for a pick&place task.
+* **_Technology used:_** ROS, C++, C#, RAPID, Gazebo, RViz, MoveIt!
+* **_Theoretical tools:_** SLAM, AMCL (Augmented Monte-Carlo Localization), A* planner, Rapidly-exploring Random Trees
+
+**Engineer Internship** @ [Safran Nacelles](https://www.safran-group.com/companies/safran-nacelles) _(Mar 2017 - Aug 2017)_  
+Équipe Systémes  
+📍 Le Havre, France.  
+
+
+* Conception and control of a simulation model of a test bench ring for the actuation systems of the nacelles thrust reversers.
+* Simulation of the stiffness of the components of the test bench.
+* **_Technology used:_** Simcenter Amesim
+* **_Theoretical tools:_** PID Control
 
 ## 🎓 Education
 
@@ -23,6 +43,7 @@ Division of Robotics, Perception and Learning.
 
 * Learning algorithms for task level control of mobile manipulators
 * **_Technology used:_** ROS2, ROS, Python, C++, RAPID
+* **_Theoretical tools:_** Behavior Trees, Learning from Demonstration, Genetic Programming, Autonomous Planners, Deep Learning for Vision
 
 **M.Sc. in Control System Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/master-degrees/control-systems-engineering/) _(Oct 2015 - Oct 2018)_  
 Department of Information Engineering.  
@@ -43,6 +64,13 @@ Major in **Robotics**.
 * **_Technology used:_** ROS, C++, Matlab, MSC Adams
 * **_Theoretical tools:_** Vision for Robotics, Computed Torque Control, Sliding Modes Control, Rapidly-exploring Random Trees
 
+**B.Sc. in Information Engineering** @ [UNIPD - Università degli Studi di Padova](https://degrees.dei.unipd.it/information-engineering-english-track/) _(Oct 2012 - Jul 2015)_  
+Department of Information Engineering.  
+📍 Padova, Italy.  
+
+* **Bachelor Thesis:** "Power Audio Amplifiers", conception and realisation of power audio amplifiers, type A, B and AB.
+* **_Technology used:_** Matlab, Java, C, Arduino
+
 ## 🗣️ Languages
 
 - 🇮🇹 : Native
@@ -55,9 +83,17 @@ Major in **Robotics**.
 
 1. [A survey of behavior trees in robotics and AI](https://www.sciencedirect.com/science/article/pii/S0921889022000513)
 2. [Learning behavior trees with genetic programming in unpredictable environments](https://ieeexplore.ieee.org/abstract/document/9562088)
-3. [Combining planning and learning of behavior trees for robotic assembly](https://arxiv.org/abs/2103.09036)
-4. [Combining Context Awareness and Planning to Learn Behavior Trees from Demonstration](https://arxiv.org/abs/2109.07133)
-5. [Interactive Disambiguation for Behavior Tree Execution](https://arxiv.org/abs/2203.02994)
+    * code repository: https://github.com/matiov/learn-BTs-with-GP
+    * video: [_link to video_](https://www.youtube.com/watch?v=D_6YE3HhEnA)
+4. [Combining planning and learning of behavior trees for robotic assembly](https://arxiv.org/abs/2103.09036)
+    * code repository: https://github.com/jstyrud/planning-and-learning
+    * video: 
+6. [Combining Context Awareness and Planning to Learn Behavior Trees from Demonstration](https://arxiv.org/abs/2109.07133)
+    * code repository: https://github.com/matiov/learn-BTs-from-demo
+    * video: [_link to video_](https://www.youtube.com/watch?v=cy6PKRrsMjM&t=34s)
+7. [Interactive Disambiguation for Behavior Tree Execution](https://arxiv.org/abs/2203.02994)
+    * code repository: https://github.com/matiov/disambiguate-BT-execution
+    * video: [_link to video_](https://www.youtube.com/watch?v=aC1wY35ZNWk)
 
 
 ## 💻 Projects
@@ -67,3 +103,11 @@ Major in **Robotics**.
 3. Dual Arm Manipulation: cooperative object carrying
 4. Influence de la musique sur les micro-organismes
 5. Rénovation d'une maquette d'hélicoptère 3 DOF
+
+## 🧐 Interests
+
+**Sports:** soccer, ski, snowboard, boulder, gym, padel  
+
+**Entertainment:** concerts, electric guitar, bass guitar, formula 1  
+
+**Reads:** _A brief hystory of time_; _Brief answers to the big questions_, Stephen Hawking | _The God delusion_; _The selfish gene_; _The greatest show on Earth_, Richard Dawkins | _Thinking, fast and slow_, Daniel Kahneman
