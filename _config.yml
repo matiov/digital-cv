@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Matteo Iovino
 description: Curriculum Vitae
+baseurl: digital-cv
